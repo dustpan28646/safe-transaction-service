@@ -25,7 +25,7 @@ gnosis-py==2.8.5
 gunicorn[gevent]==20.1.0
 hexbytes==0.2.1
 packaging>=20.9
-pillow==8.2.0
+pillow==9.3.0
 psycogreen==1.0.2
 psycopg2-binary==2.8.6
 redis==3.5.3
